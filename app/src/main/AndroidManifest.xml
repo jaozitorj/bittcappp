@@ -15,11 +15,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Video"
         tools:targetApi="31">
-        <activity android:name=".WrongActivity" android:screenOrientation="locked"/>
-        <activity android:name=".ShowScoreActivity" android:screenOrientation="locked"/>
-        <activity android:name=".RightActivity" android:screenOrientation="locked"/>
-        <activity android:name=".QuestionActivity" android:screenOrientation="locked"/>
-        <activity android:name=".MainActivityquiz" android:screenOrientation="locked"/>
+        <activity android:name=".WrongActivity" android:screenOrientation="locked" android:parentActivityName=".exercicios"/>
+        <activity android:name=".ShowScoreActivity" android:screenOrientation="locked" android:parentActivityName=".exercicios"/>
+        <activity android:name=".RightActivity" android:screenOrientation="locked" android:parentActivityName=".exercicios"/>
+        <activity android:name=".QuestionActivity" android:screenOrientation="locked" android:parentActivityName=".exercicios"/>
+        <activity android:name=".MainActivityquiz" android:screenOrientation="locked" android:parentActivityName=".exercicios"/>
         <activity
             android:name=".mediaplayer"
             android:exported="false" />
