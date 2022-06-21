@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".exercicios">
+
+    <Button
+        android:id="@+id/Nivelexercicio1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:text="Nivel 1"
+        android:translationX="20dp"
+        android:translationY="140dp"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/Nivelexercicio2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="39dp"
+        android:layout_marginBottom="42dp"
+        android:text="Nivel 2"
+        android:translationX="150dp"
+        android:translationY="140dp"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/Nivelexercicio3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="40dp"
+        android:text="Nivel 3"
+        android:translationX="280dp"
+        android:translationY="140dp"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/Nivelexercicio4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="300dp"
+        android:layout_marginBottom="300dp"
+        android:text="Nivel 4"
+        android:translationX="20dp"
+        android:translationY="300dp"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/Nivelexercicio5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="130dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="130dp"
+        android:text="Nivel 5"
+        android:translationX="150dp"
+        android:translationY="300dp"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/Nivelexercicio6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="40dp"
+        android:text="Nivel 6"
+        android:translationX="280dp"
+        android:translationY="300dp"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/Nivelexercicio7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:text="Nivel 7"
+        android:translationX="20dp"
+        android:translationY="450dp"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/Nivelexercicio8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="130dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="130dp"
+        android:text="Nivel 8"
+        android:translationX="150dp"
+        android:translationY="450dp"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/Nivelexercicio9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="40dp"
+        android:text="Nivel 9"
+        android:translationX="280dp"
+        android:translationY="450dp"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/Nivelexercicio10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:text="Nivel 10"
+        android:translationX="20dp"
+        android:translationY="600dp"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/Nivelexercicio11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginBottom="83dp"
+        android:text="Nivel 11"
+        android:translationX="150dp"
+        android:translationY="600dp"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/Nivelexercicio12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nivel12"
+        android:translationX="280dp"
+        android:translationY="600dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/Iniciante"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Iniciante"
+        android:textColor="@color/purple_500"
+        android:textSize="40dp"
+        android:textStyle="bold"
+        android:translationX="120dp"
+        android:translationY="50dp"
+        tools:ignore="MissingConstraints"
+         />
+
+    <TextView
+        android:id="@+id/Avançado"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="7dp"
+        android:layout_marginBottom="20dp"
+        android:text="Avançado"
+        android:textColor="@color/purple_500"
+        android:textSize="40dp"
+        android:textStyle="bold"
+        android:translationX="115dp"
+        android:translationY="520dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/Itermediario2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:text="Intermediario 2"
+        android:textColor="@color/purple_500"
+        android:textSize="40dp"
+        android:textStyle="bold"
+        android:translationX="70dp"
+        android:translationY="370dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Intermediário 1 "
+        android:textColor="@color/purple_500"
+        android:textSize="40dp"
+        android:textStyle="bold"
+        android:translationX="70dp"
+        android:translationY="220dp"
+        tools:ignore="MissingConstraints" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

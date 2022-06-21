@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Lib/video/app/src/main/res/drawable-v24/backgroud.xml" value="0.1985" />
+        <entry key="..\:/Lib/video/app/src/main/res/drawable-v24/shape_app_categorias.xml" value="0.1985" />
+        <entry key="..\:/Lib/video/app/src/main/res/drawable-v24/shape_container_categorias.xml" value="0.1985" />
+        <entry key="..\:/Lib/video/app/src/main/res/drawable/containercomponets.xml" value="0.1065" />
+        <entry key="..\:/Lib/video/app/src/main/res/drawable/edittext.xml" value="0.1555" />
+        <entry key="..\:/Lib/video/app/src/main/res/drawable/edittext2.xml" value="0.1" />
+        <entry key="..\:/Lib/video/app/src/main/res/drawable/emailcaixinha.xml" value="0.1065" />
+        <entry key="..\:/Lib/video/app/src/main/res/drawable/logooo.xml" value="0.134" />
+        <entry key="..\:/Lib/video/app/src/main/res/drawable/telalogincor.xml" value="0.1" />
+        <entry key="..\:/Lib/video/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Lib/video/app/src/main/res/layout/activity_segundatela.xml" value="0.18" />
+        <entry key="..\:/Lib/video/app/src/main/res/layout/activity_telaregistro.xml" value="0.2" />
+        <entry key="..\:/Lib/video/app/src/main/res/layout/fragment_splashfragment.xml" value="0.25" />
+        <entry key="..\:/Lib/video/app/src/main/res/layout/splashscreen.xml" value="0.16417272338606242" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc version5/app/src/main/res/drawable/ic_bg.xml" value="0.137" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc version5/app/src/main/res/drawable/round_back_green20.xml" value="0.151" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc version5/app/src/main/res/drawable/round_back_light_yellow10.xml" value="0.151" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc version5/app/src/main/res/drawable/round_back_white.xml" value="0.151" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc version5/app/src/main/res/drawable/round_back_white_stroke10.xml" value="0.151" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc version5/app/src/main/res/drawable/round_back_white_stroke2_10.xml" value="0.151" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc version5/app/src/main/res/layout/activity_account_recovery.xml" value="0.25" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc version5/app/src/main/res/layout/activity_cards.xml" value="0.2" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc version5/app/src/main/res/layout/activity_cards_unidade1.xml" value="0.2" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc version5/app/src/main/res/layout/activity_check_email.xml" value="0.2" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc version5/app/src/main/res/layout/activity_delete_account.xml" value="0.2" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc version5/app/src/main/res/layout/activity_exercicios.xml" value="0.2" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc version5/app/src/main/res/layout/activity_flappybird.xml" value="0.2" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc version5/app/src/main/res/layout/activity_flippbird.xml" value="0.2" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc version5/app/src/main/res/layout/activity_flippy.xml" value="0.2" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc version5/app/src/main/res/layout/activity_flippybird.xml" value="0.2" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc version5/app/src/main/res/layout/activity_listaexercicio6.xml" value="0.1" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc version5/app/src/main/res/layout/activity_listaunidade_cards.xml" value="0.1859375" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc version5/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc version5/app/src/main/res/layout/activity_mainseila.xml" value="0.22" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc version5/app/src/main/res/layout/activity_quiz.xml" value="0.25" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc version5/app/src/main/res/layout/activity_quiz_result.xml" value="0.1859375" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc version5/app/src/main/res/layout/activity_segundatela.xml" value="0.2" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc version5/app/src/main/res/layout/activity_sign_in.xml" value="0.2" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc version5/app/src/main/res/layout/activity_sign_up.xml" value="0.2" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc version5/app/src/main/res/layout/activity_tela_aulas.xml" value="0.1" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc version5/app/src/main/res/layout/activity_tela_jogos.xml" value="0.2" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc version5/app/src/main/res/layout/activity_teladejogos.xml" value="0.2" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc version5/app/src/main/res/layout/activity_teladejogos2.xml" value="0.2" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc version5/app/src/main/res/layout/activity_telaexercicio10.xml" value="0.2" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc version5/app/src/main/res/layout/activity_telaexercicios.xml" value="0.1" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc version5/app/src/main/res/layout/activity_update_password.xml" value="0.2" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc/app/src/main/res/drawable/back.xml" value="0.14" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc/app/src/main/res/layout/activity_cards_unidade1.xml" value="0.2" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc/app/src/main/res/layout/activity_mainquiz.xml" value="0.2" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc/app/src/main/res/layout/activity_mediaplayer.xml" value="0.2" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc/app/src/main/res/layout/activity_question.xml" value="0.2" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc/app/src/main/res/layout/activity_right.xml" value="0.2" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc/app/src/main/res/layout/activity_segundatela.xml" value="0.2" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc/app/src/main/res/layout/activity_show_score.xml" value="0.2" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc/app/src/main/res/layout/activity_wrong.xml" value="0.1" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc2/app/src/main/res/layout/activity_exercicios.xml" value="0.22" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc2/app/src/main/res/layout/activity_listaexercicio6.xml" value="0.2" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc2/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc2/app/src/main/res/layout/activity_segundatela.xml" value="0.2" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc2/app/src/main/res/layout/activity_tela_aulas.xml" value="0.1" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc2/app/src/main/res/layout/activity_telaexercicio10.xml" value="0.2" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc2/app/src/main/res/layout/activity_telaexercicio11.xml" value="0.1859375" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc2/app/src/main/res/layout/activity_telaexercicio12.xml" value="0.2" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc2/app/src/main/res/layout/activity_telaexercicio3.xml" value="0.2" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc2/app/src/main/res/layout/activity_telaexercicio4.xml" value="0.1859375" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc2/app/src/main/res/layout/activity_telaexercicio5.xml" value="0.1859375" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc2/app/src/main/res/layout/activity_telaexercicio7.xml" value="0.1859375" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc2/app/src/main/res/layout/activity_telaexercicio8.xml" value="0.2" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc2/app/src/main/res/layout/activity_telaexercicio9.xml" value="0.1859375" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc2/app/src/main/res/layout/activity_telaexercicios.xml" value="0.1" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc2/app/src/main/res/layout/activity_telaexercicios2.xml" value="0.2" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc2/app/src/main/res/layout/activity_telaregistro.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

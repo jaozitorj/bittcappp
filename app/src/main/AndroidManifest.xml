@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.video">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Video"
+        tools:targetApi="31">
+        <activity android:name=".WrongActivity" android:screenOrientation="locked"/>
+        <activity android:name=".ShowScoreActivity" android:screenOrientation="locked"/>
+        <activity android:name=".RightActivity" android:screenOrientation="locked"/>
+        <activity android:name=".QuestionActivity" android:screenOrientation="locked"/>
+        <activity android:name=".MainActivityquiz" android:screenOrientation="locked"/>
+        <activity
+            android:name=".mediaplayer"
+            android:exported="false" />
+        <activity
+            android:name=".listaunidade_cards"
+            android:exported="false"
+            android:parentActivityName=".segundatela" />
+        <activity
+            android:name=".cards_unidade1"
+            android:exported="false"
+            android:parentActivityName=".listaunidade_cards" />
+        <activity
+            android:name=".teladejogos"
+            android:exported="false"
+            android:parentActivityName=".segundatela" />
+        <activity
+            android:name=".telaexercicio12"
+            android:exported="false"
+            android:parentActivityName=".exercicios" />
+        <activity
+            android:name=".telaexercicio11"
+            android:exported="false"
+            android:parentActivityName=".exercicios" />
+        <activity
+            android:name=".telaexercicio10"
+            android:exported="false"
+            android:parentActivityName=".exercicios" />
+        <activity
+            android:name=".telaexercicio9"
+            android:exported="false"
+            android:parentActivityName=".exercicios" />
+        <activity
+            android:name=".telaexercicio8"
+            android:exported="false"
+            android:parentActivityName=".exercicios" />
+        <activity
+            android:name=".telaexercicio7"
+            android:exported="false"
+            android:parentActivityName=".exercicios" />
+        <activity
+            android:name=".listaexercicio6"
+            android:exported="false"
+            android:parentActivityName=".exercicios" />
+        <activity
+            android:name=".telaexercicio5"
+            android:exported="false"
+            android:parentActivityName=".exercicios" />
+        <activity
+            android:name=".telaexercicio4"
+            android:exported="false"
+            android:parentActivityName=".exercicios" />
+        <activity
+            android:name=".telaexercicio3"
+            android:exported="false"
+            android:parentActivityName=".exercicios" />
+        <activity
+            android:name=".telaexercicios2"
+            android:exported="false"
+            android:parentActivityName=".exercicios" />
+        <activity
+            android:name=".exercicios"
+            android:exported="false"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".telaexercicios"
+            android:exported="false"
+            android:parentActivityName=".exercicios" />
+        <activity
+            android:name=".telaregistro"
+            android:exported="false" />
+        <activity
+            android:name=".segundatela"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".telaAulas"
+            android:exported="true"
+            android:launchMode="singleTop">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
