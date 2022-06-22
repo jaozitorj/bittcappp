@@ -45,5 +45,13 @@
            android:translationX="160dp"
            android:textStyle="bold"/>
 
+    <EditText
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:drawableBottom="@drawable/ic_voz"
+        tools:layout_editor_absoluteX="297dp"
+        tools:layout_editor_absoluteY="402dp"
+        tools:ignore="MissingConstraints" />
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>

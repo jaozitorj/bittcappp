@@ -13,7 +13,7 @@ class exercicios : AppCompatActivity() {
         binding = ActivityExerciciosBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        binding.Nivelexercicio1.setOnClickListener {
+        binding.Nivelexercicio.setOnClickListener {
             val Irparatelaexercicios = Intent(this, telaexercicios::class.java)
             startActivity(Irparatelaexercicios)
             finish()

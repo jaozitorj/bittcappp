@@ -16,8 +16,8 @@ class telaexercicios : AppCompatActivity() {
         setContentView(mBinding.root)
 
         mBinding.exercicio1.setOnClickListener {
-            val voltarexercicios = Intent(this, MainActivityquiz::class.java)
-            startActivity(voltarexercicios)
+            val irparalistacards = Intent(this, Main_activity::class.java)
+            startActivity(irparalistacards)
             finish()
         }
     }

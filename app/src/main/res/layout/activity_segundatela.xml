@@ -33,7 +33,7 @@
         android:id="@+id/image_logo"
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:src="@drawable/image_mobile"
+        android:src="@drawable/logobittttt"
         app:layout_constraintBottom_toBottomOf="@+id/view"
         app:layout_constraintTop_toTopOf="@id/text_categorias"
         app:layout_constraintVertical_bias="0.0"
@@ -235,10 +235,10 @@
         android:layout_width="wrap_content"
         android:layout_height="47dp"
         android:backgroundTint="@color/purple_200"
-        android:text="Deslogar"
+        android:text="SAIR"
         android:textColor="@color/white"
         app:layout_constraintStart_toStartOf="@id/text_categorias"
-        android:translationX="290dp"
+        android:translationX="300dp"
         tools:ignore="MissingConstraints" />
 
 

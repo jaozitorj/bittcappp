@@ -4,16 +4,16 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/telalogincor"
     tools:context=".exercicios">
 
-    <Button
-        android:id="@+id/Nivelexercicio1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="20dp"
-        android:text="Nivel 1"
+    <androidx.appcompat.widget.AppCompatImageButton
+        android:id="@+id/Nivelexercicio"
+        android:layout_width="145dp"
+        android:layout_height="200dp"
+        android:src="@drawable/capaunit1"
+        android:translationY="95dp"
         android:translationX="20dp"
-        android:translationY="140dp"
         tools:ignore="MissingConstraints" />
 
     <Button
@@ -23,7 +23,7 @@
         android:layout_marginStart="39dp"
         android:layout_marginBottom="42dp"
         android:text="Nivel 2"
-        android:translationX="150dp"
+        android:translationX="200dp"
         android:translationY="140dp"
         tools:ignore="MissingConstraints" />
 
@@ -138,12 +138,12 @@
         android:id="@+id/Iniciante"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Iniciante"
-        android:textColor="@color/purple_500"
+        android:text="Unidade 1"
+        android:textColor="@color/white"
         android:textSize="40dp"
         android:textStyle="bold"
-        android:translationX="120dp"
-        android:translationY="50dp"
+        android:translationX="110dp"
+        android:translationY="30dp"
         tools:ignore="MissingConstraints"
          />
 
@@ -183,7 +183,9 @@
         android:textSize="40dp"
         android:textStyle="bold"
         android:translationX="70dp"
-        android:translationY="220dp"
-        tools:ignore="MissingConstraints" />
+        android:translationY="320dp"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="70dp"
+        tools:layout_editor_absoluteY="217dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
