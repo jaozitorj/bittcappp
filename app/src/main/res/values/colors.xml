@@ -23,4 +23,24 @@
     <color name="cor_noticias">#BF8000FF</color>
     <color name="cor_musicas">#BF003FFF</color>
     <color name="cor_videos">#00DC84</color>
+
+    <color name="red_light">#FF605C</color>
+    <color name="orange_light">#FFBD44</color>
+    <color name="green_light">#00CA4E</color>
+    <color name="gris_dark">#C0BFC0</color>
+    <color name="red">#FF0000</color>
+    <color name="item_toolabr">#171616</color>
+
+    <array name="demo_colors">
+        <item>@color/colorAccent</item>
+        <item>@color/colorPrimary</item>
+        <item>@color/colorPrimaryDark</item>
+        <item>@color/orange_light</item>
+        <item>@color/green_light</item>
+        <item>@color/gris_dark</item>
+        <item>@color/red</item>
+        <item>@color/item_toolabr</item>
+        <item>@color/white</item>
+
+    </array>
 </resources>

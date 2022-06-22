@@ -4,12 +4,15 @@ import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.graphics.Canvas;
+import android.graphics.Point;
 import android.util.AttributeSet;
+import android.view.MotionEvent;
 import android.view.View;
 
 import androidx.annotation.Nullable;
 
 import com.example.video.common.Common;
+import com.example.video.utils.FloodFill;
 
 public class PaintView extends View {
 
@@ -35,5 +38,20 @@ public class PaintView extends View {
     protected void onDraw(Canvas canvas) {
         super.onDraw(canvas);
         canvas.drawBitmap(bitmap,0,0,null);
+    }
+
+    @Override
+    public boolean onTouchEvent(MotionEvent event) {
+        paint((int)event.getX(),(int)event.getY());
+
+
+        return true;
+    }
+
+    private void paint(int x, int y) {
+
+        int targetColor = bitmap.getPixel(x,y);
+        FloodFill.floodFill(bitmap,new Point(x,y),targetColor,Common.COLOR_SELECTED);
+        invalidate();
     }
 }

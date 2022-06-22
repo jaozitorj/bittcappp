@@ -7,12 +7,18 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
-public class PaintActivity extends AppCompatActivity {
+import com.example.video.common.Common;
+import com.thebluealliance.spectrum.SpectrumPalette;
+
+public class PaintActivity extends AppCompatActivity implements SpectrumPalette.OnColorSelectedListener {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_paint);
+
+        SpectrumPalette spectrumPalette = findViewById(R.id.palette);
+        spectrumPalette.setOnColorSelectedListener(this);
 
     }
 
@@ -30,5 +36,10 @@ public class PaintActivity extends AppCompatActivity {
 
             }
         return super.onOptionsItemSelected(item);
+    }
+
+    @Override
+    public void onColorSelected(int color) {
+        Common.COLOR_SELECTED = color;
     }
 }
