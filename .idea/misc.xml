@@ -21,11 +21,14 @@
         <entry key="..\:/Users/JoaoVictor/StudioProjects/aplicativo ingles version 1/app/src/main/res/drawable/back.xml" value="0.14" />
         <entry key="..\:/Users/JoaoVictor/StudioProjects/aplicativo ingles version 1/app/src/main/res/drawable/btn_orange.xml" value="0.14" />
         <entry key="..\:/Users/JoaoVictor/StudioProjects/aplicativo ingles version 1/app/src/main/res/drawable/containercomponets.xml" value="0.14" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/aplicativo ingles version 1/app/src/main/res/drawable/edit_text_background.xml" value="0.171" />
         <entry key="..\:/Users/JoaoVictor/StudioProjects/aplicativo ingles version 1/app/src/main/res/drawable/ic_launcher_background.xml" value="0.14" />
         <entry key="..\:/Users/JoaoVictor/StudioProjects/aplicativo ingles version 1/app/src/main/res/drawable/ic_telefone.xml" value="0.14" />
         <entry key="..\:/Users/JoaoVictor/StudioProjects/aplicativo ingles version 1/app/src/main/res/drawable/radio_group_orange_questions.xml" value="0.14" />
         <entry key="..\:/Users/JoaoVictor/StudioProjects/aplicativo ingles version 1/app/src/main/res/drawable/telalogincor.xml" value="0.193" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/aplicativo ingles version 1/app/src/main/res/layout/activity_cacapalavras.xml" value="0.25" />
         <entry key="..\:/Users/JoaoVictor/StudioProjects/aplicativo ingles version 1/app/src/main/res/layout/activity_cards_unidade1.xml" value="0.22" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/aplicativo ingles version 1/app/src/main/res/layout/activity_coloringkid.xml" value="0.1" />
         <entry key="..\:/Users/JoaoVictor/StudioProjects/aplicativo ingles version 1/app/src/main/res/layout/activity_exercicios.xml" value="0.2" />
         <entry key="..\:/Users/JoaoVictor/StudioProjects/aplicativo ingles version 1/app/src/main/res/layout/activity_image_adapter.xml" value="0.2" />
         <entry key="..\:/Users/JoaoVictor/StudioProjects/aplicativo ingles version 1/app/src/main/res/layout/activity_main.xml" value="0.2" />
@@ -33,6 +36,8 @@
         <entry key="..\:/Users/JoaoVictor/StudioProjects/aplicativo ingles version 1/app/src/main/res/layout/activity_main_activityquizexercicio2nivel1.xml" value="0.2" />
         <entry key="..\:/Users/JoaoVictor/StudioProjects/aplicativo ingles version 1/app/src/main/res/layout/activity_mainquiz.xml" value="0.2" />
         <entry key="..\:/Users/JoaoVictor/StudioProjects/aplicativo ingles version 1/app/src/main/res/layout/activity_mediaplayer.xml" value="0.2" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/aplicativo ingles version 1/app/src/main/res/layout/activity_paint.xml" value="0.1859375" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/aplicativo ingles version 1/app/src/main/res/layout/activity_paintmain.xml" value="0.2" />
         <entry key="..\:/Users/JoaoVictor/StudioProjects/aplicativo ingles version 1/app/src/main/res/layout/activity_puzzle.xml" value="0.2" />
         <entry key="..\:/Users/JoaoVictor/StudioProjects/aplicativo ingles version 1/app/src/main/res/layout/activity_question.xml" value="0.2" />
         <entry key="..\:/Users/JoaoVictor/StudioProjects/aplicativo ingles version 1/app/src/main/res/layout/activity_question_activitynivel1exercicio2.xml" value="0.2" />
@@ -44,7 +49,9 @@
         <entry key="..\:/Users/JoaoVictor/StudioProjects/aplicativo ingles version 1/app/src/main/res/layout/activity_telaregistro.xml" value="0.2" />
         <entry key="..\:/Users/JoaoVictor/StudioProjects/aplicativo ingles version 1/app/src/main/res/layout/activity_wrong.xml" value="0.2" />
         <entry key="..\:/Users/JoaoVictor/StudioProjects/aplicativo ingles version 1/app/src/main/res/layout/grid_element.xml" value="0.2" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/aplicativo ingles version 1/app/src/main/res/layout/item_images.xml" value="0.19895833333333332" />
         <entry key="..\:/Users/JoaoVictor/StudioProjects/aplicativo ingles version 1/app/src/main/res/layout/mainquizexerciciosnivel1exercicio2.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/JoaoVictor/StudioProjects/aplicativo ingles version 1/app/src/main/res/menu/manu.xml" value="0.19895833333333332" />
         <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc version5/app/src/main/res/drawable/ic_bg.xml" value="0.137" />
         <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc version5/app/src/main/res/drawable/round_back_green20.xml" value="0.151" />
         <entry key="..\:/Users/JoaoVictor/StudioProjects/appbittc version5/app/src/main/res/drawable/round_back_light_yellow10.xml" value="0.151" />
