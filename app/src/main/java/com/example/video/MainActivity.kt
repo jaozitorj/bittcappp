@@ -54,8 +54,9 @@ class MainActivity : AppCompatActivity() {
             finish()
         }
 
+
         binding.btIrparatelaentrar.setOnClickListener { view ->
-            val email = binding.editemail.text.toString()
+            val email = binding.editemail1.text.toString()
             val senha = binding.editsenha.text.toString()
 
             if (email.isEmpty() || senha.isEmpty()){

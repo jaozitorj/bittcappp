@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/telalogincor"
+    android:background="@color/white"
     tools:context=".segundatela">
 
 
@@ -33,7 +33,7 @@
         android:id="@+id/image_logo"
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:src="@drawable/logobittttt"
+        android:src="@drawable/logobitt"
         app:layout_constraintBottom_toBottomOf="@+id/view"
         app:layout_constraintTop_toTopOf="@id/text_categorias"
         app:layout_constraintVertical_bias="0.0"
@@ -128,6 +128,7 @@
 
                     >
                     <Button
+                        android:id="@+id/btaulas"
                         android:layout_width="match_parent"
                         android:layout_height="200dp"
                         android:text="Aulas"
@@ -139,9 +140,6 @@
                         />
 
 
-                        />
-
-                        />
                     <View
                         android:layout_width="match_parent"
                         android:layout_height="10dp"/>

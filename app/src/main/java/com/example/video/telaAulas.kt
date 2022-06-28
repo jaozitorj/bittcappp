@@ -16,7 +16,7 @@ class telaAulas : AppCompatActivity() {
         val backgroundtImg : ImageView = findViewById(R.id.logoooo)
 
         Handler().postDelayed({
-            startActivity(Intent(this,MainActivity::class.java))
+            startActivity(Intent(this,intro::class.java))
             finish()
         },2000)
 

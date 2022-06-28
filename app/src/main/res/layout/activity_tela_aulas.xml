@@ -4,15 +4,15 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/telalogincor"
+    android:background="@color/white"
     tools:context=".telaAulas">
 
     <ImageView
         android:id="@+id/logoooo"
-        android:layout_width="250dp"
-        android:layout_height="250dp"
+        android:layout_width="352dp"
+        android:layout_height="408dp"
         android:layout_centerInParent="true"
-        android:src="@drawable/logobittttt" />
+        android:src="@drawable/logobitt" />
 
 
 </RelativeLayout>

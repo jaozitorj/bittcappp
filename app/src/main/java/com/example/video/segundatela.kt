@@ -43,6 +43,11 @@ class segundatela : AppCompatActivity() {
             startActivity(irparaogame)
             finish()
         }
+        mBinding.btaulas.setOnClickListener {
+            val irparaaulas = Intent(this, telaaulas1::class.java)
+            startActivity(irparaaulas)
+            finish()
+        }
 
 
         mBinding.deslogar.setOnClickListener {

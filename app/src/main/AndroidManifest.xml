@@ -17,6 +17,15 @@
         android:theme="@style/Theme.Video"
         tools:targetApi="31">
         <activity
+            android:name=".videoplayer"
+            android:exported="false" />
+        <activity
+            android:name=".backgroundactivity"
+            android:exported="false" />
+        <activity
+            android:name=".telaaulas1"
+            android:exported="false" />
+        <activity
             android:name=".PaintActivity"
             android:exported="false" />
         <activity
@@ -106,9 +115,11 @@
             android:name=".MainActivity"
             android:exported="false" />
         <activity
+            android:name=".intro"
+            android:exported="false" />
+        <activity
             android:name=".telaAulas"
-            android:exported="true"
-            android:launchMode="singleTop">
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
